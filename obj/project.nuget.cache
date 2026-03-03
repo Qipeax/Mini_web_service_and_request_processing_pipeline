@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Cp7ofJjF4vc=",
+  "dgSpecHash": "q5Xud2V+JqQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\burnf\\Downloads\\Шаблон_Практика_1_Мини_веб_служба\\src\\Pr1.MinWebService\\Pr1.MinWebService.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\drewl\\OneDrive\\Рабочий стол\\SPO 2\\task1_framework\\Pr1.MinWebService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\drewl\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.24\\microsoft.netcore.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\drewl\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.24\\microsoft.windowsdesktop.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\drewl\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.24\\microsoft.aspnetcore.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\drewl\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.24\\microsoft.netcore.app.host.win-x64.8.0.24.nupkg.sha512"
+  ],
   "logs": []
 }
