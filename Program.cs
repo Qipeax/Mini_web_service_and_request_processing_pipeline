@@ -7,7 +7,7 @@ using Pr1.MinWebService.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Настройка сериализации, чтобы ответы были компактнее
+// Настройка сериализации, чтобы ответы были компактне
 builder.Services.Configure<JsonOptions>(options =>
 {
     options.SerializerOptions.DefaultIgnoreCondition = JsonIgnoreCondition.WhenWritingNull;
