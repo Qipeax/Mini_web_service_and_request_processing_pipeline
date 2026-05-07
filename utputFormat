@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Tue, 21 Apr 2026 08:47:16 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+X-Request-Id: 86a9ddf3eb09485991605bc0f36d0617
+
+[{"id":"b30702ac-f03b-4a12-8817-f3e56f4f67af","name":"?????","price":500}]
